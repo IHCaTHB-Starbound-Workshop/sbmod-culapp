@@ -1,2 +1,4 @@
 # starmod-culapp
-for now find all pertinent data in the .metadata file
+code licensed under GPLv3
+community.playstarbound.com/threads/124193/
+consider the mod fair game if I have been inactive for 2 months.
