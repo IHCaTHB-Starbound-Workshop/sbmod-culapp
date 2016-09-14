@@ -1,7 +1,7 @@
 # starmod-culapp
 
-code licensed under GPLv3
+Code licensed under GPLv3
 
 community.playstarbound.com/threads/124193/
 
-consider the mod fair game if I have been inactive for 2 months.
+Consider the mod disowned if attemps to contact me on the forums take longer than 1 week and I have been inactive for 2 months.
