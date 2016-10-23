@@ -1,4 +1,4 @@
-# starmod-culapp
+# sbmod-culapp
 
 Code licensed under GPLv3, file included.
 
